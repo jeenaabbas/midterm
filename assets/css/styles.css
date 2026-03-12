@@ -6,7 +6,7 @@
 --powder-blue: #a0c1d1ff;
 --pale-slate: #b5b2c2ff;
 }
-
+ 
 body {
 background-color: var(--powder-blue);
 }
